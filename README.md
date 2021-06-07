@@ -3,3 +3,5 @@
 It's a device that can purely automate the traditional bell and notification systems followed by 
 schools, colleges and industries to a virtual human like voice based notification. 
 Time adjustments can be done and for easy usage time settings presets can also be saved.
+
+https://drive.google.com/file/d/1KsdLmPoBon1QnHtmgLK1Zyqh1rYd1Gg_/view?usp=sharing
